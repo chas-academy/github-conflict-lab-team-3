@@ -1,5 +1,11 @@
-body background: #f0c6c6;
-color: #333;
-h1 color: red;
-font-size: large;
-font-weight: bolder;
+body {
+    background: #f0c6c6;
+    color: #333;
+}
+
+
+h1 { 
+    color: red;
+    font-size: large;
+    font-weight: bolder;
+        }
